@@ -1,6 +1,8 @@
-const name = "surya";
+const usr_name = "surya";
 
 
 function greeting() {
-    console.log("Hello " + name);
+    console.log("Hello " + usr_name);
 }
+
+greeting();
